@@ -5,3 +5,4 @@ Git tracks changes of files
 push to remote github
 
 switch branch is quikly
+dev changged 2 times
