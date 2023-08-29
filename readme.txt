@@ -6,3 +6,5 @@ push to remote github
 
 switch branch is quikly
 dev changged 2 times
+
+creating a new branch is quick & simple
